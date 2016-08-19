@@ -1,12 +1,12 @@
-#Basic Project
+#Employee Registration
 
-*Simple Java Project*
+*Employee Registration Project*
 
 **Java 7**
 
 * Java Application
 * JUnit
 
-Simple Java Application. 
+Employee Registration test which tests out functionality of the Person class.
 
 [Jean-francois Nepton](http://sqasolution.com)
